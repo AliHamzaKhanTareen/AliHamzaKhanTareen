@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Ali Hamza Khan
+# Hi there! 👋 
 
-I'm a junior web developer passionate about building web applications and learning new technologies.
+I'm Ali Hamza Khan. I'm a junior web developer passionate about building web applications and learning new technologies.
 
 ## 🚀 Skills
 
@@ -12,8 +12,8 @@ I'm a junior web developer passionate about building web applications and learni
 
 ## 🌱 Currently Learning
 
-- TypeScript
-- GraphQL
+- Html
+- CSS
 - JavaScript 
 
 ## 📈 GitHub Stats
@@ -22,10 +22,10 @@ I'm a junior web developer passionate about building web applications and learni
 
 ## 📫 How to reach me
 
-- Email: ahmadumer8595@gmail.com
+- Email: alihamza21300@gmail.com
 
 ## 📚 Projects
-- No Projects for now.
+- Looking forward to any open source project related to Web Development
 
 ## 🌟 Highlights
 
